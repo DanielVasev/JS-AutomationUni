@@ -4,12 +4,18 @@ JS Course providing the basic knowlidge on JS language.
 
 Content: 
 
-1. Variables 
-2. Data Types 
-3. Arrays
-4. Using Arrays in code 
-5. Functions 
-6. Objects 
-7. Classes 
-8. Loops 
+1. Hello Daniel - first line of code 
+2. General introducton to variables / Const / Data Types 
+3. Concatination & Interpolation
+4. Arrays & Objects
+5. Equality Operators
+6. Logical Operators
+7. Conditional Statement
+
+
+
+6. Functions 
+7. Objects 
+8. Classes 
+9. Loops 
 
