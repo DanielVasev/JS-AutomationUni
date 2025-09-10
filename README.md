@@ -11,11 +11,8 @@ Content:
 5. Equality Operators
 6. Logical Operators
 7. Conditional Statement
+8.
 
 
 
-6. Functions 
-7. Objects 
-8. Classes 
-9. Loops 
 
