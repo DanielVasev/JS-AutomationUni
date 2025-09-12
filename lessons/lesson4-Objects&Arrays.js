@@ -28,3 +28,7 @@ console.log(`Our customer favourite car is ${customer.car[0]}`)
 customer.car[2] = "MG";
 
 console.log(`Our customer favourite car is ${customer.car[2]}`)
+
+//Different way of creating a object
+let newObject = { car: ["VW", "Volvo", "TeslaOp", "Audi"], colour: "gray", power: 360, }
+console.log(newObject.car[2])
